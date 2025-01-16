@@ -3,6 +3,7 @@
 ## How to run:
 ### Create a Conda Environment
 conda create -n signlang python=3.7 -y
+
 conda activate signlang
 
 ### Install Dependencies
